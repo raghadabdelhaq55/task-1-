@@ -1,0 +1,37 @@
+.options-shell {
+  max-width: 980px;
+  margin: 0 auto;
+  padding: 40px 20px 60px;
+  display: grid;
+  gap: 24px;
+}
+
+.options-hero {
+  display: grid;
+  gap: 10px;
+}
+
+.options-hero h1 {
+  margin: 0;
+  font-size: clamp(2rem, 4vw, 3.2rem);
+}
+
+.options-hero p:last-child,
+.notes-panel p {
+  margin: 0;
+  color: var(--muted);
+  line-height: 1.6;
+}
+
+.notes-panel {
+  display: grid;
+  gap: 10px;
+  padding: 20px;
+  border: 1px solid var(--panel-border);
+  border-radius: 20px;
+  background: rgba(255, 255, 255, 0.18);
+}
+
+.notes-panel h2 {
+  margin: 0;
+}
