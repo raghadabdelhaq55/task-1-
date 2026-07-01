@@ -1,5 +1,5 @@
 # Ghostwriter AI Chrome Extension
-[watch the demo here] (https://www.youtube.com/watch?v=kInvV8zx8hM)
+[watch the demo here](https://www.youtube.com/watch?v=kInvV8zx8hM)
 Ghostwriter AI is a production-oriented Chrome Extension built with TypeScript, Manifest V3, Vite, and React. It brings Cursor-style inline autocomplete to editable fields across nearly any website by rendering non-destructive ghost text suggestions that can be accepted with `Tab`.
 
 ## Features
